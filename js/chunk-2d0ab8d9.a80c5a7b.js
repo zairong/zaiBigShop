@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ab8d9"],{1686:function(n,e,r){"use strict";r.r(e);var u=function(){var n=this,e=n._self._c;return e("div",[n._v(" 挖系團購訂單 ")])},a=[],d={name:"GroupOrder"},t=d,c=r("2877"),o=Object(c["a"])(t,u,a,!1,null,"4bdd0a72",null);e["default"]=o.exports}}]);
